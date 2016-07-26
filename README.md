@@ -45,4 +45,4 @@ Bookshelf:
 
 ### Who do I talk to? ###
 
-* Repo owner or admin -> Joshan (jbajaj1@jhu.edu) or Bill (wwatso13@jhu.edu).
+* Repo owner or admin -> Joshan or Bill.
