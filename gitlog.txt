@@ -1,0 +1,339 @@
+* c6f7a2c	jbajaj	2016-06-01	Fixing the git conflict
+*   8b71362	William Watson	2016-06-01	trying to fix
+|\  
+| * 62dde7c	jbajaj	2016-06-01	Added a response for title not found to UpdateOwnedCopies, Note, Rec, and Rating. Also added a clarifying note to clearBooks()
+* | 72b5234	William Watson	2016-06-01	update bookCmds
+|/  
+*   d619c79	William Watson	2016-06-01	Merge branch 'master' of git.acm.jhu.edu:billyonair/cult
+|\  
+| * 1f17963	Joshan Bajaj	2016-06-01	Remove now also removes the ISBN file. Also added a response for the title not being found
+* | ae908c3	William Watson	2016-06-01	add cmd line options
+|/  
+* 9dcc5af	jbajaj	2016-06-01	Removed Functions that don't work. (MergeSort and SortBooks). Also removed useless comments at bottom.
+* 77ac8b2	Joshan Bajaj	2016-06-01	Handled Mastering Algorithms with Perl bug in a better way than before.
+* 14e7717	Joshan Bajaj	2016-06-01	Deleted comment that no longer applies
+* 074f65e	Joshan Bajaj	2016-06-01	Finished process of changing My Rating to ACM Rating. Updated all files accordingly
+* 6f55551	Joshan Bajaj	2016-06-01	Started process to change My Rating to ACM Rating. Also updated parameters of the four update functions, and adjusted the four functions to handle those parameters
+* 9381048	Joshan Bajaj	2016-06-01	Moved CSV files to their own directory
+* 5f1d4e9	jbajaj	2016-06-01	Add new directory
+* d6096de	jbajaj	2016-06-01	No longer need sortedList.txt
+* cb3e491	jbajaj	2016-06-01	No longer need sort.py
+* 573867a	Joshan Bajaj	2016-06-01	Remove function
+* 2ed765c	Joshan Bajaj	2016-06-01	Added updateRec, Note, and Rating. Also added elifs at the bottom
+* 6daaa9a	Joshan Bajaj	2016-06-01	Added Update Copies method
+* af3aa75	William Watson	2016-05-31	fix file names
+* b520122	jbajaj	2016-05-31	Delete .htm
+* 77769b5	Joshan Bajaj	2016-05-31	Finally fixed the add to book info bug
+* f2898f6	Joshan Bajaj	2016-05-31	I think this fixed it
+* d2173cb	Joshan Bajaj	2016-05-31	Did this fix it?
+* dcf1239	Joshan Bajaj	2016-05-31	BookGui adds information to bookinfo.txt
+* 42f7693	jbajaj	2016-05-31	Removed the "#" from addISBNfile(book) inside of def addFileBooks(filename):
+* b66980b	Joshan Bajaj	2016-05-31	Fixed another AEleen bug
+*   0f741a9	Joshan Bajaj	2016-05-31	Merge branch 'master' of git.acm.jhu.edu:billyonair/cult
+|\  
+| * 0ec4524	William Watson	2016-05-27	fix log
+| * 082ba6b	William Watson	2016-05-27	log
+* | 216fadd	Joshan Bajaj	2016-05-31	Sorted Everything, fixed Mastering Algorithms Bug, fixed Darnell Bug
+|/  
+* 7d4ebaa	Joshan Bajaj	2016-05-27	Adjusted to ignore case
+* 7cdc1f2	Joshan Bajaj	2016-05-27	Added massive sort function (sortBookInfo). BookInfo is sorted, and it also has updated information in it (Another AEleen fix, and added missing ISBNs.)
+* 36d23aa	William Watson	2016-05-26	sorted list, fixed links
+* e745d21	William Watson	2016-05-26	text file of sorted titles--authors
+* 67839f3	William Watson	2016-05-26	update layout of todo
+* f334e19	William Watson	2016-05-26	update things to do
+* deba3a0	William Watson	2016-05-26	fix name of files in book gui
+* 6a3ffcc	William Watson	2016-05-26	remove old htm gile Table
+* bddae87	William Watson	2016-05-26	log
+* aec73d0	William Watson	2016-05-26	fnc to clear books but leave headers
+* 86049f2	billyonair	2016-05-25	Delete BooksOld.htm
+* 62edaa8	Joshan Bajaj	2016-05-25	Test commit
+* ba334d4	William Watson	2016-05-25	log
+* b1033de	jbajaj	2016-05-25	Fixed AEleen Bug
+* 1f0f84c	jbajaj	2016-05-25	Update BooksList.htm
+* 64af19a	jbajaj	2016-05-25	Fixed AEleen bug
+* 4af3173	jbajaj	2016-05-25	Adjusted font sizes
+* 75c1495	jbajaj	2016-05-25	Fixed linking bug. Fixed extra box bug. Fixed AEleen bug.
+* d2783de	jbajaj	2016-05-25	Typo fix
+* 14d6a2c	jbajaj	2016-05-25	Adjusted Font sizes
+* 6771d78	jbajaj	2016-05-25	Fixed Add Table Bug
+* c1f2a0e	William Watson	2016-05-24	fix css and bookCOmmand
+* 79bd236	billyonair	2016-05-25	Update Books.htm
+* e8dd61e	billyonair	2016-05-24	Update READMEBOOKSHELF.md
+* 2dc5009	billyonair	2016-05-24	Update READMEBOOKSHELF.md
+* c07837c	William Watson	2016-05-24	fix log
+* 83b5b52	William Watson	2016-05-24	change md
+* 1cfd8d2	William Watson	2016-05-24	testing change
+* 546ef90	William Watson	2016-05-24	log
+* 2ecc5e7	William Watson	2016-05-24	change contributors to markdown
+*   9573c4c	William Watson	2016-05-24	Merge branch 'master' of git.acm.jhu.edu:billyonair/cult
+|\  
+| * 9eeb677	billyonair	2016-05-24	Update toDo.txt
+* | 7c5980e	William Watson	2016-05-24	stuff
+|/  
+* 9180e7e	William Watson	2016-05-24	added
+* d13675a	William Watson	2016-05-24	added css file to ISBN
+* e78e78f	William Watson	2016-05-24	log
+*   5e225b5	William Watson	2016-05-24	Merge branch 'master' of git.acm.jhu.edu:billyonair/cult
+|\  
+| * 54dd0fb	billyonair	2016-05-24	Update bookCommands.py
+* | c3028fd	William Watson	2016-05-24	update file names
+|/  
+* 3306186	William Watson	2016-05-24	massive push pf ISBN and HTML Files
+* 77c909a	William Watson	2016-05-24	uncomment imports
+* c8b87f3	William Watson	2016-05-24	update/fix bugs
+* a05d4a2	William Watson	2016-05-24	changes
+* ceda068	billyonair	2016-05-24	Add contribution guide
+* 9168cd0	William Watson	2016-05-24	log
+* 0fad43d	William Watson	2016-05-24	rm log
+* 9fc69c2	William Watson	2016-05-24	log
+* 5f5e027	jbajaj	2016-05-24	Check previous commit message, added one line
+* 411446a	Joshan Bajaj	2016-05-24	Added method to generate our entire list, added in bookinfo.txt which needs to be fed to said method, and tweaked a little in BookGui (mainly changed filename for addToTable.
+* f45dacd	billyonair	2016-05-23	Update test.css
+*   dcd67c6	William Watson	2016-05-21	Merge branch 'master' of git.acm.jhu.edu:billyonair/cult
+|\  
+| * 962e470	billyonair	2016-05-21	Update Books.htm
+| * 4f73538	billyonair	2016-05-21	Update BooksList.htm
+* | 46eafb4	William Watson	2016-05-21	add css to ISBN files
+|/  
+* 7d6c142	William Watson	2016-05-21	small changes
+* bc87197	William Watson	2016-05-21	update htm
+* f8a25a7	billyonair	2016-05-21	Update test.css
+* 739883d	billyonair	2016-05-21	Update Books.htm with css
+* 2bced71	billyonair	2016-05-21	Update test.css
+* 4acaba9	billyonair	2016-05-21	Upload new file
+* 553617a	William Watson	2016-05-21	comment
+* 39f1868	William Watson	2016-05-21	fix gui again
+*   6f3a863	William Watson	2016-05-21	?
+|\  
+| * 119102d	jbajaj	2016-05-21	Update Books.htm, fixed URL
+| * 33a20ee	jbajaj	2016-05-21	Update 0596527330.htm ACMBookShelf/
+| * 63b8510	jbajaj	2016-05-21	Update 0534166563.htm ACMBookShelf/
+| * 4fd4238	jbajaj	2016-05-21	Update 0446532681.htm ACMBookShelf/
+| * 08b886d	jbajaj	2016-05-21	Update 012206092X.htm ACMBookShelf/
+| * 413010f	jbajaj	2016-05-21	Update 0072223642.htm ACMBookShelf/
+| * 6093765	jbajaj	2016-05-21	Delete 1565928466	.htm Glitched file with the blank space.
+| * 304096d	jbajaj	2016-05-21	Update BooksList.htm Fixed the blank space bug
+| * d09727f	jbajaj	2016-05-21	Delete 0446691860	.htm Glitched file. Unfortunate
+| * 4870652	Joshan Bajaj	2016-05-21	adjusted url, fixed in some of the ISBNs so far
+| * a012f70	Joshan Bajaj	2016-05-21	Adjusted BooksList for the changes I made to BookGui
+| * e8f9172	Joshan Bajaj	2016-05-21	Fixed BookGui
+| * 96e48fa	Joshan Bajaj	2016-05-21	Removed the ISBN OR ISBN13
+| * f6e478c	Joshan Bajaj	2016-05-21	Added some books
+| * 701b4d9	Joshan Bajaj	2016-05-21	Organization
+* | 0bb9dcc	William Watson	2016-05-21	update gui
+|/  
+* ab86bcd	William Watson	2016-05-20	fix table
+* 1ff0b68	William Watson	2016-05-20	more fixing isbn
+* f3613da	Joshan Bajaj	2016-05-20	update isbn
+* 9666511	William Watson	2016-05-20	fix
+* 20ffbfb	William Watson	2016-05-20	remove
+* 1e1a834	William Watson	2016-05-20	update
+* 66132af	Joshan Bajaj	2016-05-20	Fixing BookGui
+* 6625edb	William Watson	2016-05-20	update Readme
+* aa5d3be	William Watson	2016-05-20	update Readme
+* a0fab34	William Watson	2016-05-20	who wants to e sorted?
+*   58032fe	William Watson	2016-05-20	Merge branch 'master' of git.acm.jhu.edu:billyonair/cult
+|\  
+| * f844919	jbajaj	2016-05-21	Update 0072223642.htm
+| *   3ee9534	Joshan Bajaj	2016-05-20	Merge branch 'master' of git.acm.jhu.edu:billyonair/cult
+| |\  
+| * \   4064018	Joshan Bajaj	2016-05-20	Merge branch 'master' of git.acm.jhu.edu:billyonair/cult
+| |\ \  
+| * | | 539c61d	Joshan Bajaj	2016-05-20	individual book url
+* | | | f7434e3	William Watson	2016-05-20	fixing the vote
+| |_|/  
+|/| |   
+* | | 49b374a	William Watson	2016-05-20	)
+| |/  
+|/|   
+* | f670da4	William Watson	2016-05-20	html fix
+* | 33e17f9	William Watson	2016-05-20	start commands
+|/  
+* 688ef56	Joshan Bajaj	2016-05-20	starting this file
+* a7fee31	jbajaj	2016-05-20	Update toDo.txt
+* 226fe29	Joshan Bajaj	2016-05-20	Updated all of the cult files and cleaned up Bookshelf Files
+* 8a24c14	jbajaj	2016-05-20	Height and width were inversed
+* 3bfa184	Joshan Bajaj	2016-05-20	Fixed cult, made better popups
+* e0e6177	jbajaj	2016-05-20	Added new function -- createPopUpAdjMessage
+* b95804d	Joshan Bajaj	2016-05-20	Added pop up messages, cleaned ISBN search button
+* ca52fe0	William Watson	2016-05-20	better layout
+* fd3c0c9	William Watson	2016-05-20	lookup
+* 2517235	William Watson	2016-05-17	log it
+* 6ff8ebe	William Watson	2016-05-17	update cult in all folders
+* 19def29	William Watson	2016-05-17	add fnc to cult
+* 13e21ad	William Watson	2016-05-17	File to Get GUI, and add to HTML File
+* 818d49d	billyonair	2016-05-17	Delete a-book-a-week-image.gif
+* 209e2e1	billyonair	2016-05-17	Upload new file
+* c7ef198	William Watson	2016-05-17	Commit
+* 241fc16	William Watson	2016-05-17	Start Book GUI
+* de0db35	billyonair	2016-05-17	Upload new file
+* 45bd8f4	jbajaj	2016-05-16	small update DocumentationCultGui.md
+* 49465b7	William Watson	2016-05-16	log
+* b773bdf	billyonair	2016-05-16	Update DocumentationCultGui.md
+* 460b91c	billyonair	2016-05-16	Update READMECULT.md
+* 05ebe4b	billyonair	2016-05-16	Update READMEGUITEMPLATE.md
+* 655d33e	billyonair	2016-05-16	Update READMEMODULARIZED.md
+* 78666a4	billyonair	2016-05-16	Update READMETESTING.md
+* 8ac095b	billyonair	2016-05-16	Update READMESHIRT.md
+* 74ffac2	billyonair	2016-05-16	Update READMESHIRT.md
+* 5898b80	billyonair	2016-05-16	Update Documentation.md
+* 382d025	billyonair	2016-05-16	Update Documentation.md
+* 302dd30	billyonair	2016-05-16	Update DocumentationCultGui.md
+* 4cff718	William Watson	2016-05-16	log
+* 27d80ce	jbajaj	2016-05-16	Completed toDo.txt
+* 5258a5d	jbajaj	2016-05-16	Update DocumentationCultGui.md -- Needs Bill's approval
+* 2f2c3eb	jbajaj	2016-05-16	Update Documentation.md -- Needs Bill's approval
+* a672f42	jbajaj	2016-05-16	Update DocumentationCultGui.md
+* 802ca31	jbajaj	2016-05-16	Update DocumentationCultGui.md
+* 6c9b8b2	jbajaj	2016-05-16	Rewording
+* 90884a4	Joshan Bajaj	2016-05-16	Starting new Documentation.md file
+* 6ee306a	Joshan Bajaj	2016-05-16	Renamed file
+* cc31591	jbajaj	2016-05-16	Update toDo.txt
+* b5132e9	Joshan Bajaj	2016-05-16	Placed Documentation.md in the correct location
+* 4cede1a	jbajaj	2016-05-16	Update Documentation.md
+* 035f490	jbajaj	2016-05-16	Update Documentation.md
+* e147b6d	jbajaj	2016-05-16	Update READMETESTING.md
+* 90f3f69	Joshan Bajaj	2016-05-16	Starting Testing README
+* 1626431	jbajaj	2016-05-16	Update README.md
+* 3abcf17	jbajaj	2016-05-16	Update READMECULT.md
+* 91a5957	jbajaj	2016-05-16	Update READMEGUITEMPLATE.md
+* 004c5ec	jbajaj	2016-05-16	Update READMEGUITEMPLATE.md
+* a33a49e	jbajaj	2016-05-16	Update READMEMODULARIZED.md
+* ae207bb	jbajaj	2016-05-16	Update READMEMODULARIZED.md
+* c478514	Joshan Bajaj	2016-05-16	Started GuiTemplate README
+* dd46103	jbajaj	2016-05-16	Update READMEMODULARIZED.md
+* 4ba71bd	Joshan Bajaj	2016-05-16	Started Modularized ReadMe
+* 725c96f	jbajaj	2016-05-16	Update toDo.txt
+* deb2d61	jbajaj	2016-05-16	Update READMESHIRT.md
+* 848ba54	Joshan Bajaj	2016-05-16	Starting Shirt ReadMe
+* 2c0fc7f	jbajaj	2016-05-16	Update READMECULT.md
+* 37b24b9	jbajaj	2016-05-16	Update READMEBOOKSHELF.md
+* 31d0bde	jbajaj	2016-05-16	Update READMECULT.md
+* 6a8617f	Joshan Bajaj	2016-05-16	Starting Cult ReadMe
+* 3ab937d	William Watson	2016-05-15	git log
+* 88d5727	billyonair	2016-05-16	Update README.md
+* deff785	billyonair	2016-05-16	Update README.md
+* 376d351	billyonair	2016-05-16	Update README.md
+* 9781e7a	billyonair	2016-05-16	Update README.md
+* cda6ec5	Joshan Bajaj	2016-05-15	HTML File of Books
+* 437f14b	jbajaj	2016-05-16	Update READMEBOOKSHELF.md
+* a955dac	Joshan Bajaj	2016-05-15	starting ReadMe for bookshelf
+* 1751d84	Joshan Bajaj	2016-05-15	Bookshelf. CSV files added + moved emailand cult into it
+* a7d3ed7	William Watson	2016-05-15	update modules in folders
+* c720e95	William Watson	2016-05-15	email testing
+* 20bd090	William Watson	2016-05-15	Add files to test folder
+* c35d7ca	William Watson	2016-05-15	testing directory
+* 93882ee	William Watson	2016-05-15	fixed cult
+* 428f970	billyonair	2016-05-15	Update cult.py
+* 9bc3bae	billyonair	2016-05-15	Update contributors.txt
+* 0e7416d	William Watson	2016-05-14	fix
+* 603611b	William Watson	2016-05-14	Accident delete tut
+* 0374942	William Watson	2016-05-14	update
+* e935df1	William Watson	2016-05-14	fix mergesort in cult, add radiobuttons, email now can sort file data via mergesort
+* f28d53e	Joshan Bajaj	2016-05-14	test commit
+* 8688dab	jbajaj	2016-05-15	Update Documentation.md
+* 223698c	billyonair	2016-05-15	Update toDo.txt
+* 65aef77	billyonair	2016-05-15	Update toDo.txt
+* 09a59af	William Watson	2016-05-14	Tutorial makrdown file monospaced
+* 60a56f8	William Watson	2016-05-14	Tutorial makrdown file
+* 16b8354	William Watson	2016-05-14	Tutorial makrdown file
+* 3013969	William Watson	2016-05-14	Tutorial makrdown file
+* 35681cc	jbajaj	2016-05-15	Update toDo.txt
+* 827347d	Joshan Bajaj	2016-05-14	Updated cult and email.py files in the various folders
+* 01201cd	jbajaj	2016-05-15	Added deleteLastListBoxItem()
+* cd2e239	billyonair	2016-05-15	Update GUITemplate.py
+* be5d75c	jbajaj	2016-05-14	Fixed createMasterAdjustable, also renamed it.
+* 56fc512	jbajaj	2016-05-14	Added more Master Frame functions
+*   b7543d0	William Watson	2016-05-14	Merge branch 'master' of git.acm.jhu.edu:billyonair/cult
+|\  
+| * 500bcbc	jbajaj	2016-05-14	Update cult.py
+| * fe35f16	jbajaj	2016-05-14	Made createLabel function, fixed comment for createButton
+* | 6befce6	William Watson	2016-05-14	new email fnc, more in template
+|/  
+* e6fc141	billyonair	2016-05-14	Update LICENSE
+* ef46b7d	William Watson	2016-05-14	template email
+* 936fe74	billyonair	2016-05-14	Update emailJoin.py
+* 1e1e6dc	jbajaj	2016-05-14	Update toDo.txt
+* 3e842cc	Joshan Bajaj	2016-05-14	Blah
+* b274331	William Watson	2016-05-14	template gui
+* bf17707	jbajaj	2016-05-14	Update Documentation.md
+* 2ef2ebe	William Watson	2016-05-14	more fnc, templates
+* ea43235	jbajaj	2016-05-14	Update README.md
+* f0cbd5c	Joshan Bajaj	2016-05-14	Added new functions to cult.py and email.py in Shirt and Cult Gui folders
+* db2260e	William Watson	2016-05-14	listbox functionality added
+* a81d26f	Joshan Bajaj	2016-05-14	Updated functions in cult.py in ShirtGUI folder and CultGui folder
+* 0bcfee8	William Watson	2016-05-14	add fnc
+* 61b841f	jbajaj	2016-05-14	Update toDo.txt
+* f1de56a	jbajaj	2016-05-14	Update toDo.txt
+* b30e87a	jbajaj	2016-05-14	Update README.md
+* 0c55d7e	jbajaj	2016-05-14	Delete shirts.txt -- useless file
+* 50b5b35	Joshan Bajaj	2016-05-14	Fixed files to use DeleteEntries instead of DeleteEntry
+* 89889aa	Joshan Bajaj	2016-05-14	Fixed stuff
+* 008edde	Joshan Bajaj	2016-05-14	Cleaned up files
+* 947bcbd	jbajaj	2016-05-14	Update cult.py (Quick typo fix)
+* 5d8ca80	William Watson	2016-05-14	add functions
+* 3eeb216	William Watson	2016-05-14	added helper functions, increase use
+* 5977677	William Watson	2016-05-14	fix delete entry
+* 13d60f4	William Watson	2016-05-14	added documentation, not all of it though
+*   0c8011b	William Watson	2016-05-14	Merge branch 'master' of git.acm.jhu.edu:billyonair/cult
+|\  
+| * 43b9113	jbajaj	2016-05-14	Update README.md
+* | 20de876	William Watson	2016-05-14	update rows
+|/  
+* 13c1781	jbajaj	2016-05-14	Update README.md
+* 49f432f	William Watson	2016-05-14	Add new functionality
+* a8147b3	William Watson	2016-05-14	modularize email with specific scripts for shirts and join, needs testing
+* 7317259	William Watson	2016-05-14	fix bugs
+* 7cb567a	William Watson	2016-05-14	Testing shirts
+* 1ff0b25	William Watson	2016-05-14	add functionality and modularize code
+* 6d9d292	William Watson	2016-05-14	working?
+* f7a42b2	William Watson	2016-05-14	Test Join with module Cult
+* 442431d	William Watson	2016-05-13	fix probs
+* 0dd6e0c	William Watson	2016-05-13	old cult.py moved to join, will fix
+* 32b8b18	William Watson	2016-05-13	added many modular functions, needs testing
+* fc53f7f	William Watson	2016-05-01	clean up
+* 1f2c816	William Watson	2016-04-29	hello
+* fb995b4	William Watson	2016-04-29	gui for shirt order form
+* 5e3fb9d	William Watson	2016-04-28	scroll
+* e402058	William Watson	2016-04-18	better REGEX
+* 79fe3aa	William Watson	2016-04-18	update
+* 4583ede	William Watson	2016-04-18	./cult and other comments
+*   6ebc790	billyonair	2016-04-18	Merge branch 'master' into 'master'
+|\  
+| * c935ddc	Philip Piantone	2016-04-18	Changed logo
+|/  
+* fa08fae	jbajaj	2016-04-18	Quick Update
+* 2c02708	Joshan Bajaj	2016-04-18	Fixed ReadMe, added Documentation.md
+* ab3a4df	jbajaj	2016-04-18	Added license
+* c35e1de	jbajaj	2016-04-18	Unneeded photo
+* 7b7d90f	Joshan Bajaj	2016-04-18	quick test
+* 60f1ed5	billyonair	2016-03-30	Update toDo.txt
+* c5d9aad	William Watson	2016-03-30	fixed email posting
+* 428711b	William Watson	2016-03-28	ignore txt
+* 747f621	William Watson	2016-03-28	messages in email.py
+* 883e8c4	William Watson	2016-03-26	Delete person from list works, wrote code for adding members to actual mailman lists
+* 6979f71	William Watson	2016-03-22	stuff
+* a4711c6	William Watson	2016-03-22	better email script, update text files
+* 0b9027a	William Watson	2016-03-22	repo clean up
+* fbf99b9	William Watson	2016-03-22	remove
+* d80dcb6	William Watson	2016-03-22	betterGUI is now cult.py
+* fbefd35	William Watson	2016-03-22	popup for email validation
+* 1dfa232	William Watson	2016-03-22	popup
+* 3978ef9	William Watson	2016-03-22	popup
+* 9b5409b	William Watson	2016-03-22	email?
+* 0b9dab3	William Watson	2016-03-21	stuff
+* 6368629	William Watson	2016-03-14	update todo
+* 4f42aa4	William Watson	2016-03-14	new photo
+* b804bbc	William Watson	2016-03-14	betterGui.py created online with Bitbucket
+* b61c460	William Watson	2016-03-13	added text
+* 427a44a	William Watson	2016-03-13	moved new.py to cult.py, old.py is original cult, use cult.py from now on
+* 15b7f0e	William Watson	2016-03-13	working gui with photo
+* 7e38e68	William Watson	2016-03-08	better gui
+* 0328668	William Watson	2016-03-08	toDo.txt edited online with Bitbucket
+* a44d866	William Watson	2016-03-08	README.md edited online with Bitbucket
+* 13ddd30	Joshan Bajaj	2016-03-07	beginning of photo stuff
+* 1673415	Joshan Bajaj	2016-03-07	ACM Photo
+* c24cde1	Joshan Bajaj	2016-03-07	Added To Do List
+* 25ea26d	Joshan Bajaj	2016-03-07	Added GUI Functionality, generates email list
+* 236d093	William Watson	2016-03-06	upload
+* b654e16	William Watson	2016-03-06	Initial commit with contributors
